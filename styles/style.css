@@ -65,6 +65,7 @@ body{
       border-radius: 5px 5px;
       
       
+      
 
   }
   img{
@@ -76,7 +77,7 @@ body{
 
   .content{
       background-color: var(--content-background);
-      margin-top: -5px;
+      margin-top: -4px;
       border-radius: 0 0 5px 5px;
   }
   .content h1{
